@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Jeroen]]></title>
         <description><![CDATA[Jeroen]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jeroen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 18:13:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 10 Feb 2016 18:13:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jeroen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Chicken on board]]></title>
+            <description><![CDATA[<article><h1>Chicken on board</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d0d8973-e45d-47d8-b86c-81c5ef7698ba.png"></article>]]></description>
+            <link>https://thegrid.ai/jeroen/chicken-on-board/index.html</link>
+            <guid isPermaLink="false">ff0756bf-8b1d-49af-ab12-728bcb06a548</guid>
+            <pubDate>Wed, 10 Feb 2016 18:12:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Plain coffee]]></title>
-            <description><![CDATA[<article><h1>Plain coffee</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f439f651-b3a4-4195-8fe4-d6243874d056.png"></article>]]></description>
-            <link>undefinedplain-coffee/index.html</link>
+            <description><![CDATA[<article><h1>Plain coffee</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a1bb1a63fa875ac5c070f3ff2e7ced426f729756.png"></article>]]></description>
+            <link>https://thegrid.ai/jeroen/plain-coffee/index.html</link>
             <guid isPermaLink="false">26bd49a4-adb3-4bdf-8bd1-7481558770d8</guid>
             <pubDate>Wed, 10 Feb 2016 18:12:40 GMT</pubDate>
         </item>
